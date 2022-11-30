@@ -1,3 +1,7 @@
 django
 gunicorn
 flask
+numpy
+flask
+pandas
+scikit-learn
